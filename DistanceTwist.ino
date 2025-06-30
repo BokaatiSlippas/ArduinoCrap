@@ -1,3 +1,6 @@
+// Plan was to originally attach a boxing glove to a servo but servo too weak
+
+
 #include <Servo.h>
 
 // this constant won't change. It's the pin number of the sensor's output:
